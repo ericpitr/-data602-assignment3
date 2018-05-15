@@ -1,6 +1,6 @@
 # -data602-assignment3
 
-The README file in the Github repository should contain a link to the Docker image on Docker Hub and any other external sources that are used in the assignment
+The trade_app3.py app runs in Windows with no problems. It creates charts embeded in html documents. The docker version runs with no errors and should create html documents depending on directory permissions. 
 
 
 https://hub.docker.com/r/ericpitr/data602/tags/
